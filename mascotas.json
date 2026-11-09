@@ -1,0 +1,20 @@
+{
+  "perros": [
+    {
+      "raza": "kiltro",
+      "vacunado": true,
+      "disponibleAdopcion": true,
+      "nombre": "luchito",
+      "edad": 12,
+      "peso": 9.5
+    }
+  ],
+  "gatos": [
+    {
+      "exterior": true,
+      "nombre": "charqui",
+      "edad": 7,
+      "peso": 5.5
+    }
+  ]
+}
